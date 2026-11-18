@@ -5,4 +5,6 @@ from logging import Logger, getLogger
 LOGGER: Logger = getLogger(__package__)
 
 DOMAIN = "webuntis_integration"
-ATTRIBUTION = "Data provided by http://jsonplaceholder.typicode.com/"
+
+CONF_SCHOOL = "school"
+CONF_SCHOOL_DOMAIN = "school_domain"
