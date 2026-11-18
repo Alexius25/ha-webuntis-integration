@@ -1,4 +1,4 @@
-"""DataUpdateCoordinator for integration_blueprint."""
+"""DataUpdateCoordinator for webuntis_integration."""
 
 from __future__ import annotations
 

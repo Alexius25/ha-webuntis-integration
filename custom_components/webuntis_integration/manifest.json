@@ -1,0 +1,12 @@
+{
+  "domain": "webuntis_integration",
+  "name": "WebUntis Integration",
+  "codeowners": [
+    "@ludeeus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/ludeeus/webuntis_integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/ludeeus/webuntis_integration/issues",
+  "version": "0.1.0"
+}
